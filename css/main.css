@@ -3,6 +3,7 @@
 @import "./warzone.css";
 @import "./footer.css";
 @import "./news.css";
+
 :root {
   --color-text: #444444;
   --bg: #181818;
