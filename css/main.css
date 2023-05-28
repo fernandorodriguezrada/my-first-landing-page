@@ -1,8 +1,8 @@
-@import "navbar.css";
-@import "wrapper.css";
-@import "warzone.css";
-@import "footer.css";
-@import "news.css";
+@import "./navbar.css";
+@import "./wrapper.css";
+@import "./warzone.css";
+@import "./footer.css";
+@import "./news.css";
 :root {
   --color-text: #444444;
   --bg: #181818;
