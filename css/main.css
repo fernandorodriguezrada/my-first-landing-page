@@ -1,0 +1,29 @@
+@import "./navbar.css";
+@import "./wrapper.css";
+@import "./warzone.css";
+@import "./footer.css";
+@import "./news.css";
+:root {
+  --color-text: #444444;
+  --bg: #181818;
+  --image-email: url("/resources/imgs/topo.png");
+  --gray: #6b7280;
+  --black: #202020;
+  --white: #ffffff;
+  --font: system-ui;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font);
+  background-image: var(--image-email);
+  background-size: contain;
+}
