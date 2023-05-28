@@ -1,6 +1,6 @@
 @font-face {
   font-family: "wz";
-  src: url("/resources/fonts/TacticRound-Bld.ttf");
+  src: local("TacticRound-Bld");
 }
 .warzone {
   display: flex;
