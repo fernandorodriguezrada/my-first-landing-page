@@ -6,7 +6,7 @@
 :root {
   --color-text: #444444;
   --bg: #181818;
-  --image-email: url("/resources/imgs/topo.png");
+  --image-email: url("/resources/topo.png");
   --gray: #6b7280;
   --black: #202020;
   --white: #ffffff;
